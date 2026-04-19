@@ -6,7 +6,7 @@
 
 ## 👤 About the Researcher
 
-Early undergraduate pursuing a degree in Aerospace Engineering with a concentrated focus on aerodynamics and fluid behavior. This repository documents hands-on experimental work conducted independently — from concept and design through fabrication, testing, and data analysis. The goal is to bridge academic theory with real, measurable results while building a foundation for advanced research in lift/drag optimization and airfoil performance.
+Early graduating high schoolers pursuing a degree in Aerospace Engineering with a concentrated focus on aerodynamics and fluid behavior. This repository documents hands-on experimental work conducted independently — from concept and design through fabrication, testing, and data analysis. The goal is to bridge academic theory with real, measurable results while building a foundation for advanced research in lift/drag optimization and airfoil performance.
 
 ---
 
